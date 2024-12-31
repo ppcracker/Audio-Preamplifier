@@ -14,10 +14,3 @@ This preamplifier is a [certified](https://certification.oshwa.org/lk000010.html
 
 The complete [documentation](https://github.com/dilshan/6ch-af-preamplifier/wiki) of this project is available in the [wiki](https://github.com/dilshan/6ch-af-preamplifier/wiki) section of this repository. The PCB *Gerber files* and compiled binaries are also available in the [release](https://github.com/dilshan/6ch-af-preamplifier/releases) section of this repository.
 
-All the content of this project are distributed under the terms of the following license:
-
-- Hardware License: [CERN-OHL-W 2.0](https://ohwr.org/cern_ohl_w_v2.txt)
-- Software License: [MIT](https://github.com/dilshan/6ch-af-preamplifier/blob/main/LICENSE)
-- [Documentation](https://github.com/dilshan/6ch-af-preamplifier/wiki) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-[![LK000010](https://raw.githubusercontent.com/dilshan/6ch-af-preamplifier/main/resources/6ch-preamp-oshwa-LK000010-small.jpg)](https://certification.oshwa.org/lk000010.html)
